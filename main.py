@@ -12,7 +12,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-image = Image.open("shopping-banner.png")
+image = Image.open("shopping-banner.jpg")
 st.image(image, caption='created by MJ')
 
 
